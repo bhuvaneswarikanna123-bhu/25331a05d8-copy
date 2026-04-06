@@ -4,6 +4,7 @@
 int main(){
 char str1[100],str2[100];
 char copystr[100];
+printf("25331a05d8\n");
 printf("enter the first string:");
 scanf("%s",str1);
 printf("enter the second string:");
